@@ -1,7 +1,7 @@
-# SuperCoinBot
-# tgpiar
-# Tgbot
-# tgpiarbot
+# Telegram Piar
+# Telegram Bot
+# Aiogram
+# Python
 
 This bot is designed to promote channels, groups, bots and get promoted posts in Telegram.
 
