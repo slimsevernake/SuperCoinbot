@@ -5,8 +5,10 @@
 
 This bot is designed to promote channels, groups, bots and get promoted posts in Telegram.
 
-Python 3.7
+Python 3.8
+
 pip install aiogram
+
 pip install aiosqlite
 
 Functions and performer:
